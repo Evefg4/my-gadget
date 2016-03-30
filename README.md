@@ -1,0 +1,2 @@
+# my-gadget
+Pinterest widget
